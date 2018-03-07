@@ -16,4 +16,8 @@ This problem made me very confused. at the very first, I used the most commen me
 It's so exciting that my code was accepted at the first submition. To solve this problem, I build a integer string to determin whather a character showed up before (to reduce the time complexity ). And then, use the sliding window to reduce the time complexity.
 
 Time Complexity:O(2n)
+
+## Palindrome Number
+
+Thought I accepted it, I think my answer is not so perfect. because it is said that when using "Reverse Integer" might overflow, and I didn't solve this problem. So, I am confusied.
  
