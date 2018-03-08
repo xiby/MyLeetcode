@@ -26,4 +26,9 @@ Thought I accepted it, I think my answer is not so perfect. because it is said t
 This is the most disgusting problem I have met. I know that there must be some bug. but I didn't realise that the test data is so disgusting. However, the mistake I made is mainly on the boundry. And I finally know why problem 9 may have some problems.
 
 Time Complexity:O(n)
+
+## Container With Most Water
+
+At the very first, I even can't understand the problem. And then, after carfully reading, I understood what kind of problem I should solve. Just find the rectangle whose area is the widest. I didn't try the most commen method, because I think it would run out of time. So, I used this kind of method <a href=https://segmentfault.com/a/1190000008824222>click me to see method</a>. without any accident, I got accept.
+TimeComplexity:O(n)
  
