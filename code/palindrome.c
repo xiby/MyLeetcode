@@ -6,7 +6,6 @@ typedef int bool;
 #define false 0
 
 bool isPalindrome(int x) {
-    
     int num=0;
     int i=0;
     int digital=0;

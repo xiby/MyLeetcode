@@ -20,4 +20,10 @@ Time Complexity:O(2n)
 ## Palindrome Number
 
 Thought I accepted it, I think my answer is not so perfect. because it is said that when using "Reverse Integer" might overflow, and I didn't solve this problem. So, I am confusied.
+
+## String to Integer
+
+This is the most disgusting problem I have met. I know that there must be some bug. but I didn't realise that the test data is so disgusting. However, the mistake I made is mainly on the boundry. And I finally know why problem 9 may have some problems.
+
+Time Complexity:O(n)
  
