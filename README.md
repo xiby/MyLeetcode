@@ -31,4 +31,10 @@ Time Complexity:O(n)
 
 At the very first, I even can't understand the problem. And then, after carfully reading, I understood what kind of problem I should solve. Just find the rectangle whose area is the widest. I didn't try the most commen method, because I think it would run out of time. So, I used this kind of method <a href=https://segmentfault.com/a/1190000008824222>click me to see method</a>. without any accident, I got accept.
 TimeComplexity:O(n)
+
+## Valid Parentheses
+
+Because of the network problem, I didn't finish yesterday's task, and task of today may be a little late. This problem was one of the original problem of post exam of SYSU. And to solve it, a stack is needed. because of using C, I wrote some basic function of stack, if you are using C++, just use the template stack, it can be more easy. 
+
+To solve the problem, you need to visit every char in the string s, and if the char you are visiting is ( [  or {, just push them into the stack, and if you met ) ] }, you need check the top element of the stack to check is weather matched. if not, jump out of the loop, and return false, else you need pop out the current top element. if all of the char are visited, check the stack, if empty, congration, you got the valid parentheses.
  
